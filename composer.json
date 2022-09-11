@@ -1,0 +1,22 @@
+{
+    "name": "geekbrains/php2",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": [
+            "database/config/config.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "andrey",
+            "email": "root@atata.ru"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.20",
+         "ext-pdo": "*"
+    }
+}
