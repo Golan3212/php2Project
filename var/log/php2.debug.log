@@ -1,0 +1,6 @@
+[2022-10-08T08:58:33.698237+00:00] php2_logger.DEBUG: Start post search 08.10.2022 08:58:33 [] []
+[2022-10-08T08:59:40.488124+00:00] php2_logger.DEBUG: Start post search 08.10.2022 08:59:40 [] []
+[2022-10-08T08:59:40.489682+00:00] php2_logger.ERROR: Post with user_id : 32 and title : as not found [] []
+[2022-10-08T08:59:55.554759+00:00] php2_logger.DEBUG: Start post search 08.10.2022 08:59:55 [] []
+[2022-10-08T08:59:55.557011+00:00] php2_logger.INFO: Post found : user_id 32, title asd, text text [] []
+[2022-10-08T08:59:55.557247+00:00] php2_logger.DEBUG: Finish post search 08.10.2022 08:59:55 [] []
